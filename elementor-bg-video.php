@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Background Video Delay for Elementor (Improve LCP)
  * Description: Adds a configurable start delay for Elementor background videos (YouTube or MP4) to improve LCP and optimize page loading performance.
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author: David Kioshi Leite Kinjo (DavidRe9)
  * Author URI: https://github.com/DavidRe9
  * Plugin URI: https://github.com/DavidRe9/background-video-delay-elementor
