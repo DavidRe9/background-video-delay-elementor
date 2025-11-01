@@ -6,6 +6,9 @@ Improve page speed and LCP (Largest Contentful Paint) by deferring background Yo
 ![PHP Version](https://img.shields.io/badge/PHP-7.4+-blue)
 ![License](https://img.shields.io/badge/license-GPLv2%2B-blue)
 
+> ⚠️ **Notice:** This project was originally created by [@DavidRe9](https://github.com/DavidRe9).  
+> It is licensed under GPLv2+, and **must retain proper author attribution**.
+
 ---
 
 ## 🚀 Features
@@ -67,6 +70,19 @@ GPLv2 or later – [View License](https://www.gnu.org/licenses/gpl-2.0.html)
 ---
 
 ## ✨ Want to contribute?
+
+## 🧾 License and Attribution
+
+This project is licensed under the **GNU General Public License v2.0 or later (GPLv2+).**
+
+Copyright © [DavidRe9](https://github.com/DavidRe9)
+
+You are free to redistribute and/or modify this code under the following conditions:
+- Keep the **original license notice (GPLv2+)**;
+- Keep the **original author attribution** to [@DavidRe9](https://github.com/DavidRe9);
+- Distribute the **complete source code** as required by the GPL.
+
+Copies, forks, or redistributions that **remove or obscure the original author credit** are considered a violation of the license terms.
 
 Pull requests and issues are welcome!
 
