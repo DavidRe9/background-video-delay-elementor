@@ -13,6 +13,15 @@ Improve page speed and LCP (Largest Contentful Paint) by deferring background Yo
 
 ---
 
+## 🎬 Live Demo
+
+Experience the Smart Fit Core system in action — see how the background video perfectly adapts to any screen size.
+
+👉 [View the official demo discussion](https://github.com/DavidRe9/background-video-delay-elementor/discussions/2)
+
+> 💡 Note: Demo recorded locally using generic assets — no client data is shown.
+
+
 ## 🚀 Features
 
 - ✅ Delay background YouTube video loading
