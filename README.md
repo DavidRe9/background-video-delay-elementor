@@ -6,6 +6,8 @@ Improve page speed and LCP (Largest Contentful Paint) by deferring background Yo
 ![PHP Version](https://img.shields.io/badge/PHP-7.4+-blue)
 ![License](https://img.shields.io/badge/license-GPLv2%2B-blue)
 
+👉 Official project page: [Background Video Delay for Elementor](https://github.com/DavidRe9/background-video-delay-elementor)
+
 > ⚠️ **Notice:** This project was originally created by [@DavidRe9](https://github.com/DavidRe9).  
 > It is licensed under GPLv2+, and **must retain proper author attribution**.
 
