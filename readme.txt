@@ -4,7 +4,7 @@ Tags: elementor, background video, performance, lcp, youtube, defer, page speed
 Requires at least: 5.0  
 Tested up to: 6.5  
 Requires PHP: 7.4  
-Stable tag: 1.0.1  
+Stable tag: 1.0.2  
 License: GPLv2 or later  
 License URI: https://www.gnu.org/licenses/gpl-2.0.html  
 
@@ -62,6 +62,11 @@ Yes. Delaying the loading of background videos reduces render-blocking and impro
 Currently, only YouTube videos are supported.
 
 == Changelog ==
+
+= 1.0.2 =
+* Updated plugin header for author/license consistency
+* Added full GPLv2 license text
+* Improved README and documentation
 
 = 1.0.1 =  
 * First public release  
