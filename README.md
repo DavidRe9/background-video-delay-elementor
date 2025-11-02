@@ -13,9 +13,6 @@ Improve page speed and LCP (Largest Contentful Paint) by deferring background Yo
 
 ---
 
-## Buy Me A Coffee
-[![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20Me%20A%20Coffee-yellow)](https://www.buymeacoffee.com/DavidRe9)
-
 ## 🎬 Live Demo
 
 Experience the Smart Fit Core system in action — see how the background video perfectly adapts to any screen size.
