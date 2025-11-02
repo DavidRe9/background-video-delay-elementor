@@ -13,6 +13,9 @@ Improve page speed and LCP (Largest Contentful Paint) by deferring background Yo
 
 ---
 
+# Background Video Delay for Elementor  
+[![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20Me%20A%20Coffee-yellow)](https://www.buymeacoffee.com/DavidRe9)
+
 ## 🎬 Live Demo
 
 Experience the Smart Fit Core system in action — see how the background video perfectly adapts to any screen size.
@@ -80,7 +83,25 @@ GPLv2 or later – [View License](https://www.gnu.org/licenses/gpl-2.0.html)
 
 ---
 
+---
+
 ## ✨ Want to contribute?
+
+Contributions, issues and feature requests are welcome!  
+Feel free to check the [issues page](https://github.com/DavidRe9/background-video-delay-elementor/issues).
+
+If you have an idea or improvement, open a [discussion](https://github.com/DavidRe9/background-video-delay-elementor/discussions) —  
+your feedback helps make this project even better!
+
+---
+
+## ☕ Support My Work
+
+If this plugin helped you improve performance or save time,  
+consider buying me a coffee — it keeps me coding with energy! ❤️
+
+[![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20Me%20A%20Coffee-yellow)](https://www.buymeacoffee.com/DavidRe9)
+
 
 ## 🧾 License and Attribution
 
