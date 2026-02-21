@@ -6,7 +6,21 @@ Improve page speed and LCP (Largest Contentful Paint) by deferring background Yo
 ![PHP Version](https://img.shields.io/badge/PHP-7.4+-blue)
 ![License](https://img.shields.io/badge/license-GPLv2%2B-blue)
 
+👉 Official project page: [Background Video Delay for Elementor](https://github.com/DavidRe9/background-video-delay-elementor)
+
+> ⚠️ **Notice:** This project was originally created by [@DavidRe9](https://github.com/DavidRe9).  
+> It is licensed under GPLv2+, and **must retain proper author attribution**.
+
 ---
+
+## 🎬 Live Demo
+
+Experience the Smart Fit Core system in action — see how the background video perfectly adapts to any screen size.
+
+👉 [View the official demo discussion](https://github.com/DavidRe9/background-video-delay-elementor/discussions/2)
+
+> 💡 Note: Demo recorded locally using generic assets — no client data is shown.
+
 
 ## 🚀 Features
 
@@ -66,7 +80,38 @@ GPLv2 or later – [View License](https://www.gnu.org/licenses/gpl-2.0.html)
 
 ---
 
+---
+
 ## ✨ Want to contribute?
+
+Contributions, issues and feature requests are welcome!  
+Feel free to check the [issues page](https://github.com/DavidRe9/background-video-delay-elementor/issues).
+
+If you have an idea or improvement, open a [discussion](https://github.com/DavidRe9/background-video-delay-elementor/discussions) —  
+your feedback helps make this project even better!
+
+---
+
+## ☕ Support My Work
+
+If this plugin helped you improve performance or save time,  
+consider buying me a coffee — it keeps me coding with energy! ❤️
+
+[![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20Me%20A%20Coffee-yellow)](https://www.buymeacoffee.com/DavidRe9)
+
+
+## 🧾 License and Attribution
+
+This project is licensed under the **GNU General Public License v2.0 or later (GPLv2+).**
+
+Copyright © [DavidRe9](https://github.com/DavidRe9)
+
+You are free to redistribute and/or modify this code under the following conditions:
+- Keep the **original license notice (GPLv2+)**;
+- Keep the **original author attribution** to [@DavidRe9](https://github.com/DavidRe9);
+- Distribute the **complete source code** as required by the GPL.
+
+Copies, forks, or redistributions that **remove or obscure the original author credit** are considered a violation of the license terms.
 
 Pull requests and issues are welcome!
 
