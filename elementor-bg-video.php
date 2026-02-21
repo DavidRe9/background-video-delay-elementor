@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Background Video Delay for Elementor Improve LCP
  * Description: Add delayed YouTube background videos to Elementor sections for better loading performance, defer video loading for increased page speed.
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author: David Kioshi Leite Kinjo
  * Author URI: https://renovesp.wordpress.com/
  * Plugin URI: https://wordpress.org/plugins/background-video-delay-elementor
